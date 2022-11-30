@@ -33,3 +33,21 @@ h2 {
     font-size: 40px;
     text-align:left;
 }
+
+.fave{
+    color:orangered;
+}
+
+ul{
+    list-style-type: upper-roman;
+}
+
+ol {
+    list-style-type: upper-roman
+}
+
+li {
+    color:white;
+    font-size: 20px;
+    font-weight: bold;
+}
