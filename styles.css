@@ -77,3 +77,12 @@ li {
     display :flex;
  }
 
+ .cake-item {
+
+    border: 1px dashed yellow;
+    width: 275px;
+    height: 275;
+    padding: 4px;
+ }
+
+
